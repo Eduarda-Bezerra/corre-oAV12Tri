@@ -1,2 +1,2 @@
-# correcao-oAV12Tri
+# correcaoAV12Tri
 Prova pratica da Av. 1 - 2º Tri 
